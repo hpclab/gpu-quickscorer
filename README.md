@@ -11,4 +11,4 @@ The QuickScorer algorithm is discussed in *Lucchese, C., Nardini, F. M., Orlando
 
 **QuickScorer** is undergoing a patent process. Title of invention: **A method to rank documents by a computer, using additive ensembles of regression trees and cache optimization, and search engine using such a method**, applicant *Tiscali S.p.A.*, inventors: *Dato, D., Lucchese, C., Nardini, F. M., Orlando, S., Perego, R., Tonellotto, N., and Venturini, R.*. International patent pending no. PCT29914.
 
-The source code of GPU-Quickscorer, Vectorized QuickScorer and Quickscorer is made available under NDA with Tiscali S.p.A. For any information please contact us at quickscorer@isti.cnr.it.
+The source code of GPU-QuickScorer, Multithread-QuickScorer, Vectorized QuickScorer and Quickscorer is made available under NDA with Tiscali S.p.A. For any information please contact us at quickscorer@isti.cnr.it.
